@@ -1,0 +1,589 @@
+2011-12-03 14:26:35 Error: [MissingControllerException] Controller class CustomersController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 15:31:40 Error: [MissingControllerException] Controller class KinaController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 15:31:43 Error: [MissingControllerException] Controller class KinaController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:09:26 Error: [MissingControllerException] Controller class SutomersController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:09:29 Error: [MissingControllerException] Controller class CutomersController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:23:26 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:25:22 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:41:06 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:46:10 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:49:50 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:50:48 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:52:25 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 16:54:14 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:01:14 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:03:27 Error: [MissingActionException] Action CustomersController::splfileinfo.openfile() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-03 17:10:18 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:14:29 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:15:12 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:16:07 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:16:26 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:24:21 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:24:25 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:27:22 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:28:12 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:29:55 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:36:59 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:42:30 Error: [MissingControllerException] Controller class AccountsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:45:38 Error: [MissingControllerException] Controller class TransactaionsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:47:27 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:47:40 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:48:46 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:49:15 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:50:18 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:51:47 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:51:59 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:52:25 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:52:36 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:54:39 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 17:55:13 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-03 18:19:13 Error: [MissingControllerException] Controller class AddStationController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 09:59:25 Error: [MissingActionException] Action CustomersController::add_load() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 10:00:32 Error: [MissingActionException] Action CustomersController::add_load() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 10:05:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:05:46 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:05:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:05:51 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:06:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:06:16 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:06:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:06:37 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:07:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:07:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:07:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:07:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:07:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:07:26 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:08:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:08:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:08:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:08:43 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:09:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:09:12 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:16:38 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:19:31 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:19:49 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:20:05 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:20:19 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:21:17 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:21:23 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:21:30 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:21:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:21:56 Error: [MissingControllerException] Controller class ImgController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:25:32 Error: [MissingControllerException] Controller class ViewController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 10:40:35 Error: [MissingActionException] Action TransactionsController::index_loans() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 10:40:49 Error: [NotFoundException] Invalid customer
+#0 [internal function]: CustomersController->view('ajax', 'content1.html')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 10:40:50 Error: [NotFoundException] Invalid customer
+#0 [internal function]: CustomersController->view('ajax', 'content2.html')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 10:40:51 Error: [NotFoundException] Invalid customer
+#0 [internal function]: CustomersController->view('ajax', 'content3-slow.p...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 10:40:52 Error: [NotFoundException] Invalid customer
+#0 [internal function]: CustomersController->view('ajax', 'content4-broken...')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 10:41:14 Error: [MissingActionException] Action TransactionsController::index_loans() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 10:42:19 Error: [MissingActionException] Action TransactionsController::index_loans() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 11:23:12 Error: [NotFoundException] Invalid customer
+#0 [internal function]: CustomersController->view('Array')
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 11:37:04 Error: [MissingActionException] Action TransactionsController::add_loan() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 11:43:56 Error: [MissingActionException] Action TransactionsController::add_procssing_fee() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 11:44:15 Error: [MissingActionException] Action TransactionsController::add_procssing_fee() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 11:45:24 Error: [MissingControllerException] Controller class WebrootController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:45:24 Error: [MissingControllerException] Controller class ..%5Cwebroot%5Cimg%5Cgawfa-rhok.pngController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:45:25 Error: [MissingControllerException] Controller class ..%5Cwebroot%5Cimg%5Cgawfa-rhok.pngController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:45:46 Error: [MissingActionException] Action CustomersController::webroot() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 11:46:12 Error: [MissingControllerException] Controller class StationController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:46:12 Error: [MissingControllerException] Controller class %5Cwebroot%5Cimg%5Cgawfa-rhok.pngController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:46:41 Error: [MissingControllerException] Controller class StationController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:46:41 Error: [MissingControllerException] Controller class StationController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:46:52 Error: [MissingControllerException] Controller class StationController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:46:53 Error: [MissingControllerException] Controller class %5Cwebroot%5Cimg%5Cgawfa-rhok.pngController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:47:48 Error: [MissingControllerException] Controller class StationController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 11:56:46 Error: [MissingActionException] Action CustomersController::add_credit() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 12:04:06 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'LoanType.loan_type' in 'field list'
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('SELECT `LoanTyp...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(647): DboSource->execute('SELECT `LoanTyp...', Array, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(1040): DboSource->fetchAll('SELECT `LoanTyp...', false)
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Model.php(2460): DboSource->read(Object(LoanType), Array)
+#5 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/Controller/LoanaccountsController.php(53): Model->find('list')
+#6 [internal function]: LoanaccountsController->add()
+#7 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(LoanaccountsController), Array)
+#8 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#9 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(LoanaccountsController), Object(CakeRequest), Object(CakeResponse))
+#10 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#11 {main}
+2011-12-04 12:08:37 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/gawfa/app/View/LoanTypes/index.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(LoanTypesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 12:08:44 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/gawfa/app/View/LoanTypes/index.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(LoanTypesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 12:08:48 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/gawfa/app/View/LoanTypes/index.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(LoanTypesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 12:08:51 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/gawfa/app/View/LoanTypes/add.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(LoanTypesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 12:09:25 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/gawfa/app/View/LoanTypes/index.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(LoanTypesController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 12:28:14 Error: [MissingActionException] Action UsersController::login() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 12:32:58 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:33:45 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:33:54 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:35:01 Error: [NotFoundException] Invalid customer
+#0 [internal function]: CustomersController->view()
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(CustomersController), Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(CustomersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 12:35:35 Error: [MissingControllerException] Controller class TranactionsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:35:41 Error: [MissingActionException] Action TransactionsController::index_load() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 12:35:49 Error: [MissingActionException] Action TransactionsController::index_loan() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 12:42:58 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:43:26 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:45:18 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:45:22 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 12:45:32 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:01:49 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:04:49 Error: [MissingActionException] Action LoanaccountsController::add_loan_account() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(LoanaccountsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 13:20:43 Error: [MissingControllerException] Controller class ReportsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:21:22 Error: [MissingControllerException] Controller class ReportsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:21:42 Error: [MissingActionException] Action ReportsController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(ReportsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 13:21:51 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/gawfa/app/View/Reports/test.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(ReportsController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 13:24:15 Error: [MissingActionException] Action BranchesController::sation() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(BranchesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 13:24:34 Error: [MissingControllerException] Controller class StationController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:25:12 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:32:01 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:32:05 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:32:23 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:48:11 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:48:15 Error: [MissingControllerException] Controller class LoginController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:48:35 Error: [MissingActionException] Action UsersController::loginhttp:() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 13:54:18 Error: [MissingControllerException] Controller class UserController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 13:54:23 Error: [MissingControllerException] Controller class UsersloginController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 14:13:43 Error: [MissingActionException] Action ReportsController::index() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(ReportsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:27:40 Error: [MissingControllerException] Controller class SavingsController could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2011-12-04 14:38:08 Error: [MissingActionException] Action SavingtransactionsController::dashboard() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:38:38 Error: [MissingActionException] Action SavingtransactionsController::dashboard() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:43:44 Error: [MissingActionException] Action SavingtransactionsController::dashboard() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:43:49 Error: [MissingActionException] Action SavingtransactionsController::dashboard() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:43:56 Error: [MissingActionException] Action SavingtransactionsController::dashboard() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:51:30 Error: [MissingActionException] Action SavingtransactionsController::dashboard() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:51:45 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `sa...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `sa...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Model.php(1629): DboSource->create(Object(Savingtransaction), Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/Controller/SavingtransactionsController.php(52): Model->save(Array)
+#5 [internal function]: SavingtransactionsController->add()
+#6 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(SavingtransactionsController), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2011-12-04 14:51:51 Error: [MissingActionException] Action SavingtransactionsController::dashboard() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:52:15 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '0' for key 'PRIMARY'
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(436): PDOStatement->execute(Array)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(403): DboSource->_execute('INSERT INTO `sa...', Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Datasource/DboSource.php(967): DboSource->execute('INSERT INTO `sa...')
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Model/Model.php(1629): DboSource->create(Object(Savingtransaction), Array, Array)
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/Controller/SavingtransactionsController.php(52): Model->save(Array)
+#5 [internal function]: SavingtransactionsController->add()
+#6 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(473): ReflectionMethod->invokeArgs(Object(SavingtransactionsController), Array)
+#7 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#8 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#9 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2011-12-04 14:55:05 Error: [MissingActionException] Action BranchesController::splfileinfo.openfile() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(BranchesController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 14:59:28 Error: [MissingActionException] Action SavingtransactionsController::add_withdrawal() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 15:00:28 Error: [MissingActionException] Action SavingtransactionsController::add_withdrawal() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 15:02:26 Error: [MissingViewException] View file "/Applications/XAMPP/xamppfiles/htdocs/gawfa/app/View/Savingtransactions/add_withdrawal.ctp" is missing.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/View/View.php(363): View->_getViewFileName(NULL)
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Controller/Controller.php(900): View->render(NULL, NULL)
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(114): Controller->render()
+#3 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#4 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2011-12-04 15:17:52 Error: [MissingActionException] Action SavingtransactionsController::add_deposit() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(SavingtransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2011-12-04 15:28:49 Error: [MissingActionException] Action TransactionsController::add_loan() could not be found.
+#0 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(107): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/gawfa/lib/Cake/Routing/Dispatcher.php(89): Dispatcher->_invoke(Object(TransactionsController), Object(CakeRequest), Object(CakeResponse))
+#2 /Applications/XAMPP/xamppfiles/htdocs/gawfa/app/webroot/index.php(96): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
